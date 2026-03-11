@@ -1,0 +1,10 @@
+Criteria,Weight,Weight Value,Trello,Asana,Notion,Linear
+Price per user (paid tier),High,3,4,3,4,3
+Learning curve for non-technical users,High,3,5,4,3,2
+Slack + Google Workspace integration quality,High,3,4,5,4,4
+Mobile app quality,Medium,2,4,5,3,3
+Reporting / workload visibility,Medium,2,3,5,4,5
+Scalability to 25 users,Medium,2,4,5,5,4
+Free tier usefulness,Low,1,4,3,5,2
+,,,,,
+Weighted Total Score,,,58,64,57,49

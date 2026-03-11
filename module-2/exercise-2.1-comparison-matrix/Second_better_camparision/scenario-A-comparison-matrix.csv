@@ -1,0 +1,36 @@
+Project Management Tool Comparison for 8-Person Startup,Budget Constraint: $15/user/month max,,,
+,,,,
+Criteria,Trello,Asana,Notion,Linear
+PRICE & VALUE,,,,
+Price per user (monthly),$5 (Standard) / $10 (Premium),$10.99 (Premium),$8 (Plus) / $15 (Business),$8 (free for small teams)
+Within budget?,Yes,Yes (barely),Yes,Yes
+Free tier limitations,Unlimited cards, 10 boards max,Up to 15 users, limited features,Unlimited pages/blocks, limited blocks,Free for startups <10 people
+Value for money,Good,Excellent,Excellent,Excellent
+,,,,
+EASE OF USE,,,,
+Learning curve (1-5 scale, 1=easiest),1 - Very intuitive,2 - Moderate,3 - Complex workspace,4 - Dev-focused
+Time to onboard team,1-2 days,3-5 days,1-2 weeks,1 week (if technical)
+Best for mixed tech-savviness?,Yes - most intuitive,Yes - good balance,No - steep for non-technical,No - built for devs
+,,,,
+INTEGRATIONS,,,,
+Slack integration,Excellent - native,Excellent - native,Excellent - native,Excellent - native
+Google Workspace integration,Excellent - Drive/Docs/Calendar,Excellent - Drive/Calendar/Meet,Good - Drive embeds,Limited - basic only
+Other key integrations,100+ via Power-Ups,200+ native integrations,100+ via API,GitHub, GitLab, Figma
+,,,,
+MOBILE APP QUALITY,,,,
+Mobile app rating (1-5),4 - Good,5 - Excellent,3 - Good,4 - Good
+Offline capability,Limited,Full,Limited,Limited
+Mobile experience notes,Simple board view,Full feature parity,Basic editing,Sprint-focused
+,,,,
+TEAM VISIBILITY & FEATURES,,,,
+Visibility into who's working on what,Good - card assignments,Excellent - workload view,Good - database views,Excellent - cycle tracking
+Reporting/dashboard features,Basic (needs Power-Ups),Excellent - advanced reporting,Good - custom databases,Good - sprint metrics
+Scalability (8 to 25 users),Good - may need upgrades,Excellent - handles growth well,Excellent - very flexible,Good - best for dev teams
+,,,,
+FINAL SCORING,,,,
+Budget fit (max $15/user),✓ Pass,✓ Pass (tight),✓ Pass,✓ Pass
+Ease of use for all,✓ Best,✓ Good,✗ Complex,✗ Dev-only
+Slack + Google integration,✓ Both excellent,✓ Both excellent,✓ Good enough,✗ Limited Google
+Mobile quality,Good,Excellent,Good,Good
+,,,,
+RECOMMENDATION SCORE,7/10,9/10,6/10,5/10
