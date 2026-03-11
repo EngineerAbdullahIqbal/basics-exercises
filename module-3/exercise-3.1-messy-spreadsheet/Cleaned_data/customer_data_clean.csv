@@ -1,0 +1,23 @@
+ID,First Name,Last Name,Email,Phone,Date Joined,City,Plan,Monthly Spend
+1,John,Smith,john.smith@email.com,(555) 123-4567,2024-01-15,New York,pro,49.99
+2,Jane,Doe,jane.doe@email.com,(555) 234-5678,2024-01-20,Los Angeles,free,0
+3,Bob,Jones,bob.jones@email.com,(555) 345-6789,2024-01-25,Chicago,pro,49.99
+4,Alice,Williams,alice.w@email.com,(555) 456-7890,2024-02-01,Houston,enterprise,199.99
+5,Charlie,Brown,charlie.b@email.com,,2024-02-10,Phoenix,pro,49.99
+6,Diana,Prince,diana.p@email.com,(555) 678-9012,2024-02-15,,free,0
+7,Edward,Norton,edward.n@email.com,(555) 789-0123,2024-02-20,San Antonio,pro,49.99
+8,Fatima,Khan,fatima.k@email.com,+92-300-1234567,2024-03-01,Lahore,enterprise,199.99
+9,George,,george@email.com,(555) 890-1234,2024-03-05,Dallas,free,
+10,Hannah,Lee,,(555) 901-2345,2024-03-10,San Jose,pro,49.99
+11,Ivan,Petrov,ivan.p@email.com,+7-555-012-3456,2024-03-15,Moscow,pro,49.99
+12,Kevin,Park,kevin.p@email.com,(555) 123-4567,2024-03-25,Austin,enterprise,199.99
+13,Luna,Garcia,luna.g@email.com,,2024-04-01,,pro,49.99
+14,Mike,Johnson,mike.j@email.com,(555) 234-5678,2024-04-05,Seattle,free,0
+15,Nina,Williams,nina.w@email.com,(555) 345-6789,2024-04-10,Denver,pro,
+16,Oscar,Martinez,oscar.m@email.com,(555) 456-7890,2024-04-15,Portland,enterprise,199.99
+17,Priya,Sharma,priya.s@email.com,+91-555-567-8901,2024-04-20,Mumbai,pro,49.99
+18,Quinn,O'Brien,quinn.ob@email.com,(555) 678-9012,2024-05-01,Boston,,49.99
+19,Rachel,Kim,rachel.k@email.com,(555) 789-0123,2024-05-05,Atlanta,pro,49.99
+20,Sam,Taylor,sam.t@email.com,,2024-05-10,Miami,free,0
+21,Tara,Singh,tara.s@email.com,+91-555-890-1234,2024-05-15,Delhi,enterprise,199.99
+22,Uma,Chen,uma.c@email.com,(555) 901-2345,2024-05-20,,pro,49.99
